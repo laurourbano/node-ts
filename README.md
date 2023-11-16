@@ -3,3 +3,5 @@
 </h1>
 
 # Exemplo de projeto usando tsx tsup vitest zod
+
+👩‍💻
